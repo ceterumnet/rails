@@ -34,7 +34,7 @@ Railties
 --------
 
 Please refer to the
-[Changelog](https://github.com/rails/rails/blob/4-1-stable/railties/CHANGELOG.md)
+[Changelog](https://github.com/rails/rails/blob/4-2-stable/railties/CHANGELOG.md)
 for detailed changes.
 
 ### Notable changes
@@ -47,7 +47,7 @@ Action Pack
 -----------
 
 Please refer to the
-[Changelog](https://github.com/rails/rails/blob/4-1-stable/actionpack/CHANGELOG.md)
+[Changelog](https://github.com/rails/rails/blob/4-2-stable/actionpack/CHANGELOG.md)
 for detailed changes.
 
 ### Notable changes
@@ -60,7 +60,7 @@ Action Mailer
 -------------
 
 Please refer to the
-[Changelog](https://github.com/rails/rails/blob/4-1-stable/actionmailer/CHANGELOG.md)
+[Changelog](https://github.com/rails/rails/blob/4-2-stable/actionmailer/CHANGELOG.md)
 for detailed changes.
 
 ### Notable changes
@@ -73,7 +73,7 @@ Active Record
 -------------
 
 Please refer to the
-[Changelog](https://github.com/rails/rails/blob/4-1-stable/activerecord/CHANGELOG.md)
+[Changelog](https://github.com/rails/rails/blob/4-2-stable/activerecord/CHANGELOG.md)
 for detailed changes.
 
 ### Notable changes
@@ -86,7 +86,7 @@ Active Model
 ------------
 
 Please refer to the
-[Changelog](https://github.com/rails/rails/blob/4-1-stable/activemodel/CHANGELOG.md)
+[Changelog](https://github.com/rails/rails/blob/4-2-stable/activemodel/CHANGELOG.md)
 for detailed changes.
 
 ### Notable changes
@@ -99,7 +99,7 @@ Active Support
 --------------
 
 Please refer to the
-[Changelog](https://github.com/rails/rails/blob/4-1-stable/activesupport/CHANGELOG.md)
+[Changelog](https://github.com/rails/rails/blob/4-2-stable/activesupport/CHANGELOG.md)
 for detailed changes.
 
 ### Notable changes
