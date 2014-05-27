@@ -117,20 +117,14 @@ for detailed changes.
 
 ### Notable changes
 
-* The `Hash#deep_transform_keys` family helpers now recurse into nested arrays.
-  ([Pull Request](https://github.com/rails/rails/pull/10887))
-
 * The `humanize` inflector helper now strips any leading underscores.
   ([Commit](https://github.com/rails/rails/commit/daaa21bc7d20f2e4ff451637423a25ff2d5e75c7))
 
 * Added `SecureRandom::uuid_v3` and `SecureRandom::uuid_v5`.
   ([Pull Request](https://github.com/rails/rails/pull/12016))
 
-* `ActiveSupport::SafeBuffer#prepend` now modifies the buffer in-place.
-  ([Pull Request](https://github.com/rails/rails/pull/14529))
-
 * Introduce `Concern#class_methods` as an alternative to `module ClassMethods`,
-  as well as `Kernel#concern` to avoid the `module Foo; extend ActiveSupport::Concern`
+  as well as `Kernel#concern` to avoid the `module Foo; extend ActiveSupport::Concern; end`
   boilerplate. ([Commit](https://github.com/rails/rails/commit/b16c36e688970df2f96f793a759365b248b582ad))
 
 Credits
