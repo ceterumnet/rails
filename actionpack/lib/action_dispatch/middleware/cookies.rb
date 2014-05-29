@@ -283,7 +283,7 @@ module ActionDispatch
       def initialize(parent_jar, secret)
         ensure_secret_secure(secret)
         @parent_jar = parent_jar
-        @verifier   = ActiveSupport::MessageVerifier.new(secret)
+        @verifier   = ActiveSupport::MessageVerifier.new(secret, {:serializer => JSON})
       end
 
       def [](name)
